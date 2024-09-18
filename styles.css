@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+header {
+    color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+footer {
+    color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 20px;
+    text-align: right;
+}
+
+p {
+  margin: 0;
+  padding-top: 10px;
+}
+
+h1 {
+    margin: 0;
+    padding-bottom: 0px;
+}
+
+h2 {
+  margin: 0;
+  padding-top: 20px;
+}
+
+h3 {
+    margin: 0;
+    padding-bottom: 0px;
+    padding-top: 5px;
+}
+
+.logo {
+    float: right;
+    padding: 10px;
+    position: relative;
+    bottom: 120px;
+    right: 20px;
+}
+
+div#cesiumContainer.fullSize {
+  margin: 0;
+  padding: 0px;
+}
+
+a {
+  color: rgb(255, 255, 255); /* Sets the link text color to blue */
+  text-decoration: underline; /* Adds an underline to the link text */
+  font-weight: regular; /* Sets the link text weight to bold */
+}
+
+a:hover, a:active {
+  font-weight: bold; /* Sets the link text weight to bold */
+}
+
+#introWindow {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #000000;
+  color: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: opacity 1s ease-in-out;
+  z-index: 9999;
+}
+
+.custom-infobox {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(172, 171, 171);
+    position: absolute;
+    right: -100%;
+    top: 250px;
+    border-radius: 10px;
+    border: medium solid rgb(77, 78, 80);
+    padding-top: 30px;
+    background: rgba(10, 10, 10, 0.8);
+    box-shadow: -3px 5px 5px rgba(0, 0, 0, 0.4);
+  }
+
+  .custom-infobox::before {
+    content: "SIGN DETAILS"; /* add the title text */
+    font-weight: bold;
+    position: absolute; /* position the title bar absolutely */
+    top: 0; /* position the title bar at the top of the container */
+    left: 0; /* position the title bar at the left of the container */
+    width: 100%; /* set the width of the title bar to 100% of the container */
+    height: 30px; /* set the height of the title bar */
+    background: rgba(10, 10, 10, 0.8); /* set the background color of the title bar */
+    border-top-left-radius: 5px; /* add rounded corners to the top left and right of the title bar */
+    border-top-right-radius: 5px;
+    text-align: left; /* center the title text horizontally */
+    line-height: 30px; /* center the title text vertically */
+    padding-left: 20px;
+  }
+  
+  .top-div {
+    width: 600px; /* set the width of the title bar to 100% of the container */
+    height: 450px; /* set the height of the title bar */
+    background-color: #3b485d;
+    padding: 0px;
+  }
+  
+  /* Style for the second div */
+  .bot-div {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(172, 171, 171);
+    width: 250px; /* set the width of the title bar to 100% of the container */
+    height: 150px; /* set the height of the title bar */
+    background-color: none;
+    padding: 20px;
+    float: left;
+  }
+
+  .rightSide-div {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(172, 171, 171);
+    width: 250px; /* set the width of the title bar to 100% of the container */
+    height: 170px; /* set the height of the title bar */
+    background-color: none;
+    padding: 20px;
+    float: right;
+  }
+
+  .custom-infobox.open {
+    display: block;
+    position: fixed;
+    right: -100%; /* Start offscreen */
+    animation: slide-in 1s forwards; /* Animate in for 1 second */
+
+  }
+
+  .custom-infobox.close {
+    animation: slide-out 1s forwards;
+  }
+  
+  @keyframes slide-in {
+    100% {
+      right: 0; /* Move to right-hand side */
+    }
+  }
+  
+  @keyframes slide-out {
+    0% {
+      right: 0;
+    }
+    100% {
+      right: -100%;
+    }
+  }
+
+  @keyframes slide-in-QRwindow {
+    100% {
+      top: 400px;
+    }
+  }
+  
+  @keyframes slide-out-QRwindow {
+    0% {
+      top: 400PX;
+    }
+    100% {
+      top: -100%;
+    }
+
+  }
+ 
+  

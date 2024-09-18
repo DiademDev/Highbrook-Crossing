@@ -1,0 +1,141 @@
+[  {    
+    "id": "document",    
+    "name": "Tamaki Business Estate",    
+    "version": "1.0"  },  
+    
+    {    
+    "id": "Label-01",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_01.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "billboard": {      
+        "image": "img/ID1f-01.png", 
+        "scale": 0.5,
+        "clampToGround": "true" },    
+    "position": {
+      "cartographicDegrees": [174.87541829462813, -36.93763221863598, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "Label-02",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "billboard": {      
+        "image": "img/ID2f-01.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.8750744534849, -36.93720552701301, 60]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+       {    
+    "id": "Label-03",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "billboard": {      
+        "image": "img/ID2f-02.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87522712456686, -36.93711491149179, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "Label-04",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "billboard": {     
+        "image": "img/ID2f-03.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87497311571138, -36.93688586457374, 59]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+        {    
+    "id": "Label-05",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "billboard": {      
+        "image": "img/ID2f-04.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87429943277084, -36.937106159020914, 56]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+          {    
+    "id": "Label-06",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "billboard": {      
+        "image": "img/ID2f-05.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87559020803576, -36.937163657371386, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+        {    
+    "id": "Label-07",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "billboard": {      
+        "image": "img/ID3f-01.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87483547445842, -36.937693576692645, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+        {    
+    "id": "Label-08",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "billboard": {      
+        "image": "img/ID3f-02.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87448523663608, -36.93817167620728, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+        {    
+    "id": "Label-09",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "billboard": {      
+        "image": "img/ID3f-03.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87430130933245, -36.93790647473447, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+        {    
+    "id": "Label-10",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "billboard": {      
+        "image": "img/ID3f-04.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.8737279676857, -36.93797608100578, 56]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+          {    
+    "id": "Label-11",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "billboard": {      
+        "image": "img/ID3f-05.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87391290604404, -36.93738483363311, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  }
+]
+
+
