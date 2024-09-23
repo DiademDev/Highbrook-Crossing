@@ -6,7 +6,7 @@ async function main() {
 
   const viewer = new Cesium.Viewer("cesiumContainer", {
 //-----------------------------------------------------  This can be turned off when using Google 3D tiles ----------------------------------------------------------//
-    terrain: Cesium.Terrain.fromWorldTerrain(),
+    //terrain: Cesium.Terrain.fromWorldTerrain(),
 //----------------------------------------------------------------------------  *** ---------------------------------------------------------------------------------//
     timeline: false,
     geocoder: false,
@@ -20,15 +20,15 @@ async function main() {
   });
 
     // Add Photorealistic 3D Tiles
-  // try {
-  //   const tileset = await Cesium.createGooglePhotorealistic3DTileset();
-  //   viewer.scene.primitives.add(tileset);
-  // } catch (error) {
-  //   console.log(`Error loading Photorealistic 3D Tiles tileset.\n${error}`);
-  // }
+  try {
+    const tileset = await Cesium.createGooglePhotorealistic3DTileset();
+    viewer.scene.primitives.add(tileset);
+  } catch (error) {
+    console.log(`Error loading Photorealistic 3D Tiles tileset.\n${error}`);
+  }
 
 //-----------------------------------------------------  Make false when using Google 3D tiles ----------------------------------------------------------//
-  viewer.scene.globe.show = true;   
+  viewer.scene.globe.show = false;   
 //----------------------------------------------------------------------------  *** ---------------------------------------------------------------------------------//
 
 // Remove Cesium logo

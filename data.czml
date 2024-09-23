@@ -215,7 +215,7 @@
       {    
     "id": "D3f-02",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totemh<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",      
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",      
     "billboard": {      
         "image": "img/D3f-02.png",      
         "scale": 0.5 },    
@@ -227,7 +227,7 @@
       {    
     "id": "D3f-03",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totemh<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",      
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",      
     "billboard": {      
         "image": "img/D3f-03.png",      
         "scale": 0.5 },    
