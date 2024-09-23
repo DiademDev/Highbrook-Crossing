@@ -4,9 +4,9 @@
     "version": "1.0"  },  
     
     {    
-    "id": "Label-01",    
+    "id": "ID1f-01",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_01.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "description": "<img src='photos/ID1f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Large Main Entry Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance on Business Parade<br><br><a href='ID1f_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
         "image": "img/ID1f-01.png", 
         "scale": 0.5,
@@ -17,122 +17,282 @@
     "heightReference": "CLAMP_TO_GROUND"
   },
       {    
-    "id": "Label-02",    
-    "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "id": "ID1w-01",    
+    "name": "High level Building Identification Sign",    
+    "description": "<img src='photos/ID1w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1w-01</u></strong> - TBC(w) x TBC(h)mm<br><br>High Level Building ID<br>Illuminated<br>Single-sided<br><br><a href='ID1w_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
-        "image": "img/ID2f-01.png",      
-        "scale": 0.5 },    
+        "image": "img/ID1w-01.png", 
+        "scale": 0.5,
+        "clampToGround": "true" },    
     "position": {
-        "cartographicDegrees": [174.8750744534849, -36.93720552701301, 60]
-    },
-    "heightReference": "CLAMP_TO_GROUND"
-  },
-       {    
-    "id": "Label-03",    
-    "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
-    "billboard": {      
-        "image": "img/ID2f-02.png",      
-        "scale": 0.5 },    
-    "position": {
-        "cartographicDegrees": [174.87522712456686, -36.93711491149179, 58]
+      "cartographicDegrees": [174.87524069566993, -36.937398991831294,  70]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
       {    
-    "id": "Label-04",    
+    "id": "ID1w-02",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "description": "<img src='photos/ID1w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1w-02</u></strong> - TBC(w) x TBC(h)mm<br><br>High Level Building ID<br>Illuminated<br>Single-sided<br><br><a href='ID1w_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "billboard": {      
+        "image": "img/ID1w-02.png", 
+        "scale": 0.5,
+        "clampToGround": "true" },    
+    "position": {
+      "cartographicDegrees": [174.8750807982088, -36.937447270587704, 80]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "ID1w-03",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID1w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1w-03</u></strong> - TBC(w) x TBC(h)mm<br><br>High Level Building ID<br>Illuminated<br>Single-sided<br><br><a href='ID1w_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "billboard": {      
+        "image": "img/ID1w-03.png", 
+        "scale": 0.5,
+        "clampToGround": "true" },    
+    "position": {
+      "cartographicDegrees": [174.87489145133148, -36.93680331848051, 70]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "ID1w-04",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID1w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1w-04</u></strong> - TBC(w) x TBC(h)mm<br><br>High Level Building ID<br>Illuminated<br>Single-sided<br><br><a href='ID1w_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "billboard": {      
+        "image": "img/ID1w-04.png", 
+        "scale": 0.5,
+        "clampToGround": "true" },    
+    "position": {
+      "cartographicDegrees": [174.8743095211883, -36.937046822552844, 72]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "ID2f-01",    
+    "name": "Car Park Identification Sign",    
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "billboard": {      
+        "image": "img/ID2f-01.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [ 174.87484611292788, -36.93769889365562, 60]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+       {    
+    "id": "ID2f-02",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "billboard": {      
+        "image": "img/ID2f-02.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87391446037137, -36.9373813645123, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "ID2f-03",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
     "billboard": {     
         "image": "img/ID2f-03.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87497311571138, -36.93688586457374, 59]
+        "cartographicDegrees": [174.8742986883064, -36.9379047827845, 59]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "Label-05",    
+    "id": "ID2f-04",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",       
     "billboard": {      
         "image": "img/ID2f-04.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87429943277084, -36.937106159020914, 56]
+        "cartographicDegrees": [174.8744925066662, -36.93817185837085, 56]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
           {    
-    "id": "Label-06",    
-    "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_03.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "id": "ID2w-01",    
+    "name": "Low Level Identification Sign",    
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
-        "image": "img/ID2f-05.png",      
+        "image": "img/ID2w-01.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87559020803576, -36.937163657371386, 58]
+        "cartographicDegrees": [174.87526079136, -36.93712066992673, 58]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "Label-07",    
+    "id": "ID2w-02",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br>><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
     "billboard": {      
-        "image": "img/ID3f-01.png",      
+        "image": "img/ID2w-02.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87483547445842, -36.937693576692645, 58]
+        "cartographicDegrees": [174.8750449940912, -36.9372118428723, 58]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "Label-08",    
+    "id": "ID2w-03",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
     "billboard": {      
-        "image": "img/ID3f-02.png",      
+        "image": "img/ID2w-03.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87448523663608, -36.93817167620728, 58]
+        "cartographicDegrees": [174.87494418582517, -36.936723791747816, 58]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "Label-09",    
+    "id": "ID2w-04",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
     "billboard": {      
-        "image": "img/ID3f-03.png",      
+        "image": "img/ID2w-04.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87430130933245, -36.93790647473447, 58]
+        "cartographicDegrees": [174.8748644020141, -36.93682863939742, 58]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "Label-10",    
+    "id": "ID2w-05",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",    
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-05</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",        
     "billboard": {      
-        "image": "img/ID3f-04.png",      
+        "image": "img/ID2w-05.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.8737279676857, -36.93797608100578, 56]
+        "cartographicDegrees": [174.8742519702314, -36.93710370369014, 56]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
           {    
-    "id": "Label-11",    
-    "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID_02.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1f-01</u></strong> - 1500(w) x 5000(h)mm<br><br>5m Freestanding Pylon<br>Illuminated<br>Double-sided<br>Located at main entrance of Jellicoe Road<br><br><a href='ID_01.html' target='_blank'>3D model example</a><hr><strong>GRAPHICS</strong><br><br><u>Side A</u><br>Jellicoe Road Entry<br><u>Side B</u><br>N/A</p>",     
+    "id": "D1f-01",    
+    "name": "Main Entry Directory Sign",    
+    "description": "<img src='photos/D1f.jpg' alt='Main entry directory photo' width= '600' height='450'><hr><strong><u>D1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
-        "image": "img/ID3f-05.png",      
+        "image": "img/D1f-01.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87391290604404, -36.93738483363311, 54]
+        "cartographicDegrees": [174.8751625618622, -36.93744014185825, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+    {    
+    "id": "D2f-01",    
+    "name": "Vehicle Directional Sign",    
+    "description": "<img src='photos/D2f.jpg' alt='Vehicle Directional photo' width= '600' height='450'><hr><strong><u>D2f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
+    "billboard": {      
+        "image": "img/D2f-01.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87371721801586, -36.937977449621535, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "D3f-01",    
+    "name": "Pedestrian Directional Totem",    
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "billboard": {      
+        "image": "img/D3f-01.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87562079260758, -36.93715739480707, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "D3f-02",    
+    "name": "Pedestrian Directional Totem",    
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totemh<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",      
+    "billboard": {      
+        "image": "img/D3f-02.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87482648993634, -36.93657582290702, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "D3f-03",    
+    "name": "Pedestrian Directional Totem",    
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totemh<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",      
+    "billboard": {      
+        "image": "img/D3f-03.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.8752677831533, -36.93651241080562, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
+    "id": "D3f-04",    
+    "name": "Pedestrian Directional Totem",    
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",      
+    "billboard": {      
+        "image": "img/D3f-04.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87461959247636, -36.93703084824158, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+        {    
+    "id": "N1f-01",    
+    "name": "Freestanding Directory Sign",    
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "billboard": {      
+        "image": "img/N1f-01.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.8750828082736, -36.937203711653495, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+          {    
+    "id": "N1f-02",    
+    "name": "Freestanding Directory Sign",    
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br>><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "billboard": {      
+        "image": "img/N1f-02.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.8752088742252, -36.9371077459848, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+          {    
+    "id": "N1f-03",    
+    "name": "Freestanding Directory Sign",    
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "billboard": {      
+        "image": "img/N1f-03.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87495431526546, -36.936880257186004, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+          {    
+    "id": "N1f-04",    
+    "name": "Freestanding Directory Sign",    
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
+    "billboard": {      
+        "image": "img/N1f-04.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.87427767840657, -36.93708994905157, 54]
     },
     "heightReference": "CLAMP_TO_GROUND"
   }
