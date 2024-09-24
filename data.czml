@@ -232,7 +232,7 @@
         "image": "img/D3f-03.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.8752677831533, -36.93651241080562, 54]
+        "cartographicDegrees": [174.8752614122311, -36.936509016589255, 54]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -244,7 +244,7 @@
         "image": "img/D3f-04.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87461959247636, -36.93703084824158, 54]
+        "cartographicDegrees": [174.87460257874645, -36.93704374207838, 54]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
