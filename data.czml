@@ -71,7 +71,7 @@
       {    
     "id": "ID2f-01",    
     "name": "Car Park Identification Sign",    
-    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Car Park ID<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
         "image": "img/ID2f-01.png",      
         "scale": 0.5 },    
@@ -83,7 +83,7 @@
        {    
     "id": "ID2f-02",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Car Park ID<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
     "billboard": {      
         "image": "img/ID2f-02.png",      
         "scale": 0.5 },    
@@ -95,7 +95,7 @@
       {    
     "id": "ID2f-03",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Car Park ID<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
     "billboard": {     
         "image": "img/ID2f-03.png",      
         "scale": 0.5 },    
@@ -107,7 +107,7 @@
         {    
     "id": "ID2f-04",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",       
+    "description": "<img src='photos/ID2f.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Car Park ID<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",       
     "billboard": {      
         "image": "img/ID2f-04.png",      
         "scale": 0.5 },    
@@ -119,7 +119,7 @@
           {    
     "id": "ID2w-01",    
     "name": "Low Level Identification Sign",    
-    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",    
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",    
     "billboard": {      
         "image": "img/ID2w-01.png",      
         "scale": 0.5 },    
@@ -131,7 +131,7 @@
         {    
     "id": "ID2w-02",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br>><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br>><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
     "billboard": {      
         "image": "img/ID2w-02.png",      
         "scale": 0.5 },    
@@ -143,7 +143,7 @@
         {    
     "id": "ID2w-03",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
     "billboard": {      
         "image": "img/ID2w-03.png",      
         "scale": 0.5 },    
@@ -155,7 +155,7 @@
         {    
     "id": "ID2w-04",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
     "billboard": {      
         "image": "img/ID2w-04.png",      
         "scale": 0.5 },    
@@ -167,7 +167,7 @@
         {    
     "id": "ID2w-05",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-05</u></strong> - TBC(w) x TBC(h)mm<br><br>Vinyl Graphics<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",        
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-05</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",        
     "billboard": {      
         "image": "img/ID2w-05.png",      
         "scale": 0.5 },    
@@ -178,32 +178,32 @@
   },
           {    
     "id": "D1f-01",    
-    "name": "Main Entry Directory Sign",    
-    "description": "<img src='photos/D1f.jpg' alt='Main entry directory photo' width= '600' height='450'><hr><strong><u>D1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "name": "Vehicle Directional Sign",    
+    "description": "<img src='photos/D1f.jpg' alt='Vehicle Directional photo' width= '600' height='450'><hr><strong><u>D1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Vehicle Directional Sign<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
         "image": "img/D1f-01.png",      
+        "scale": 0.5 },    
+    "position": {
+       "cartographicDegrees": [174.87371721801586, -36.937977449621535, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+    {    
+    "id": "D2f-01",    
+    "name": "Main Entry Directory Sign",    
+    "description": "<img src='photos/D2f.jpg' alt='Main Entry Directory photo' width= '600' height='450'><hr><strong><u>D2f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Main Entry Directory Sign<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
+    "billboard": {      
+        "image": "img/D2f-01.png",      
         "scale": 0.5 },    
     "position": {
         "cartographicDegrees": [174.8751625618622, -36.93744014185825, 54]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
-    {    
-    "id": "D2f-01",    
-    "name": "Vehicle Directional Sign",    
-    "description": "<img src='photos/D2f.jpg' alt='Vehicle Directional photo' width= '600' height='450'><hr><strong><u>D2f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
-    "billboard": {      
-        "image": "img/D2f-01.png",      
-        "scale": 0.5 },    
-    "position": {
-        "cartographicDegrees": [174.87371721801586, -36.937977449621535, 54]
-    },
-    "heightReference": "CLAMP_TO_GROUND"
-  },
       {    
     "id": "D3f-01",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",     
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Pedestrian Directional Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",     
     "billboard": {      
         "image": "img/D3f-01.png",      
         "scale": 0.5 },    
@@ -215,7 +215,7 @@
       {    
     "id": "D3f-02",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",       
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Pedestrian Directional Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",       
     "billboard": {      
         "image": "img/D3f-02.png",      
         "scale": 0.5 },    
@@ -227,7 +227,7 @@
       {    
     "id": "D3f-03",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",       
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Pedestrian Directional Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",       
     "billboard": {      
         "image": "img/D3f-03.png",      
         "scale": 0.5 },    
@@ -239,7 +239,7 @@
       {    
     "id": "D3f-04",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",       
+    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Pedestrian Directional Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",       
     "billboard": {      
         "image": "img/D3f-04.png",      
         "scale": 0.5 },    
@@ -251,7 +251,7 @@
         {    
     "id": "N1f-01",    
     "name": "Freestanding Directory Sign",    
-    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
     "billboard": {      
         "image": "img/N1f-01.png",      
         "scale": 0.5 },    
@@ -263,7 +263,7 @@
           {    
     "id": "N1f-02",    
     "name": "Freestanding Directory Sign",    
-    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br>><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Directory Plinth<br>Non-illuminated<br>Double-sided<br>><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
     "billboard": {      
         "image": "img/N1f-02.png",      
         "scale": 0.5 },    
@@ -275,7 +275,7 @@
           {    
     "id": "N1f-03",    
     "name": "Freestanding Directory Sign",    
-    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",     
     "billboard": {      
         "image": "img/N1f-03.png",      
         "scale": 0.5 },    
@@ -287,7 +287,7 @@
           {    
     "id": "N1f-04",    
     "name": "Freestanding Directory Sign",    
-    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Freestanding Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
+    "description": "<img src='photos/N1f.jpg' alt='Freestanding Directory Sign photo' width= '600' height='450'><hr><strong><u>N1f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Directory Plinth<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",         
     "billboard": {      
         "image": "img/N1f-04.png",      
         "scale": 0.5 },    
