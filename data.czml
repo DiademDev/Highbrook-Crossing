@@ -239,7 +239,7 @@
       {    
     "id": "D1f-02",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D1f.jpg' alt='Main Directory photo' width= '600' height='450'><hr><strong><u>D1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Main Directory Sign<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "description": "<img src='photos/D1f.jpg' alt='Main Directory photo' width= '600' height='450'><hr><strong><u>D1f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Main Directory Sign<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {       
         "image": "img/D1f-02.png",      
         "scale": 0.5 },    
