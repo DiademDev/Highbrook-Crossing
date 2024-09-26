@@ -179,7 +179,7 @@
           {    
     "id": "D1f-01",    
     "name": "Vehicle Directional Sign",    
-    "description": "<img src='photos/D1f.jpg' alt='Vehicle Directional photo' width= '600' height='450'><hr><strong><u>D1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Vehicle Directional Sign<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "description": "<img src='photos/D1f.jpg' alt='Main Directory photo' width= '600' height='450'><hr><strong><u>D1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Main Directory Sign<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
         "image": "img/D1f-01.png",      
         "scale": 0.5 },    
@@ -237,11 +237,11 @@
     "heightReference": "CLAMP_TO_GROUND"
   },
       {    
-    "id": "D3f-04",    
+    "id": "D1f-02",    
     "name": "Pedestrian Directional Totem",    
-    "description": "<img src='photos/D3f.jpg' alt='Pedestrian Directional photo' width= '600' height='450'><hr><strong><u>D3f-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Pedestrian Directional Totem<br>Non-illuminated<br>Four-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC<br><u>Side C</u><br>TBC<br><u>Side D</u><br>TBC</p>",       
-    "billboard": {      
-        "image": "img/D3f-04.png",      
+    "description": "<img src='photos/D1f.jpg' alt='Main Directory photo' width= '600' height='450'><hr><strong><u>D1f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Main Directory Sign<br>Non-illuminated<br>Double-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "billboard": {       
+        "image": "img/D1f-02.png",      
         "scale": 0.5 },    
     "position": {
         "cartographicDegrees": [174.87460257874645, -36.93704374207838, 54]
