@@ -61,6 +61,21 @@ a:hover, a:active {
   font-weight: bold; /* Sets the link text weight to bold */
 }
 
+.small-window {
+  width: 150px; /* Set the desired width */
+  height: 250px; /* Set the desired height */
+  background-image: url('img/Mouse_controls.png'); /* Replace with your image URL */
+  background-size: cover; /* Cover the entire div */
+  background-position: center; /* Center the image */
+  border: 2px solid #000; /* Optional border */
+  position: absolute; /* Change to absolute positioning */
+  top: 190px; /* Position from the bottom */
+  left: 10px; /* Position from the left */
+  z-index: 10; /* Ensure it overlaps other elements */
+  opacity: 0.8; /* Set opacity to make the whole window semi-transparent */
+
+}
+
 #introWindow {
   display: none;
   position: fixed;
