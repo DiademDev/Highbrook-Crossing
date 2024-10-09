@@ -17,6 +17,19 @@
     "heightReference": "CLAMP_TO_GROUND"
   },
       {    
+    "id": "ID1f-02",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID1f.jpg' alt='Site Pylon' width= '600' height='450'><hr><strong><u>ID1f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Large Site Pylon<br>Illuminated<br>Double-sided<br>Located cnr of Business Pde. & Sir Wolf Fisher Dr.<br><br><a href='ID1f_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "billboard": {      
+        "image": "img/ID1f-02.png", 
+        "scale": 0.5,
+        "clampToGround": "true" },    
+    "position": {
+      "cartographicDegrees": [174.87528539955184, -36.9380034847287, 58]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+      {    
     "id": "ID1w-01",    
     "name": "High level Building Identification Sign",    
     "description": "<img src='photos/ID1w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID1w-01</u></strong> - TBC(w) x TBC(h)mm<br><br>High Level Building ID<br>Illuminated<br>Single-sided<br><br><a href='ID1w_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",    
@@ -131,9 +144,21 @@
         {    
     "id": "ID2w-02",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br>><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
     "billboard": {      
         "image": "img/ID2w-02.png",      
+        "scale": 0.5 },    
+    "position": {
+        "cartographicDegrees": [174.8755883244695, -36.937157032509084, 54]
+    },
+    "heightReference": "CLAMP_TO_GROUND"
+  },
+          {    
+    "id": "ID2w-03",    
+    "name": "Freestanding Identification Sign",    
+    "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
+    "billboard": {      
+        "image": "img/ID2w-03.png",      
         "scale": 0.5 },    
     "position": {
         "cartographicDegrees": [174.8750449940912, -36.9372118428723, 58]
@@ -141,11 +166,11 @@
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "ID2w-03",    
+    "id": "ID2w-04",    
     "name": "Freestanding Identification Sign",    
     "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-03</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
     "billboard": {      
-        "image": "img/ID2w-03.png",      
+        "image": "img/ID2w-04.png",      
         "scale": 0.5 },    
     "position": {
         "cartographicDegrees": [174.87494418582517, -36.936723791747816, 58]
@@ -153,11 +178,11 @@
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "ID2w-04",    
+    "id": "ID2w-05",    
     "name": "Freestanding Identification Sign",    
     "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-04</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",         
     "billboard": {      
-        "image": "img/ID2w-04.png",      
+        "image": "img/ID2w-05.png",      
         "scale": 0.5 },    
     "position": {
         "cartographicDegrees": [174.8748644020141, -36.93682863939742, 58]
@@ -165,11 +190,11 @@
     "heightReference": "CLAMP_TO_GROUND"
   },
         {    
-    "id": "ID2w-05",    
+    "id": "ID2w-06",    
     "name": "Freestanding Identification Sign",    
     "description": "<img src='photos/ID2w.jpg' alt='Main entry photo' width= '600' height='450'><hr><strong><u>ID2w-05</u></strong> - TBC(w) x TBC(h)mm<br><br>Low Level Building ID<br>Non-illuminated<br>Single-sided<br><br><a href='ID_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br></p>",        
     "billboard": {      
-        "image": "img/ID2w-05.png",      
+        "image": "img/ID2w-06.png",      
         "scale": 0.5 },    
     "position": {
         "cartographicDegrees": [174.8742519702314, -36.93710370369014, 56]
