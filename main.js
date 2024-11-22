@@ -127,29 +127,29 @@ async function main() {
 
   const addedTilesets = [];
 
-  async function createModel(id) {
-
+  async function createModels(ids) {
     // Remove existing model tilesets
-
     addedTilesets.forEach((tileset) => {
       viewer.scene.primitives.remove(tileset);
     });
     addedTilesets.length = 0;
-
+  
     try {
-      const tileset = new Cesium.Cesium3DTileset({
-        url: Cesium.IonResource.fromAssetId(id),
-      });
-
-      viewer.scene.primitives.add(tileset);
-      addedTilesets.push(tileset);
-
+      // Loop through each asset ID and load the corresponding tileset
+      for (const id of ids) {
+        const tileset = new Cesium.Cesium3DTileset({
+          url: Cesium.IonResource.fromAssetId(id),
+        });
+  
+        viewer.scene.primitives.add(tileset);
+        addedTilesets.push(tileset);
+      }
     } catch (error) {
       console.log(error);
     }
   }
 
-  createModel(2855330);
+  createModels(2855330, 2855511, 2855513);
 
   // Console log out cameras coordinates as well as HeadingPitchRoll in radians
   // viewer.scene.postUpdate.addEventListener(function() {
