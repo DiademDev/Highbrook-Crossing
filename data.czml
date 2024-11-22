@@ -12,7 +12,7 @@
         "scale": 0.5,
         "clampToGround": "true" },    
     "position": {
-      "cartographicDegrees": [174.87541829462813, -36.93763221863598, 58]
+      "cartographicDegrees": [174.87541829462813, -36.93763221863598, 68]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -25,7 +25,7 @@
         "scale": 0.5,
         "clampToGround": "true" },    
     "position": {
-        "cartographicDegrees": [174.87482648993634, -36.93657582290702, 54]
+        "cartographicDegrees": [174.87482648993634, -36.93657582290702, 64]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -37,7 +37,7 @@
         "image": "img/N1f-01.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.8751625618622, -36.93744014185825, 54]
+        "cartographicDegrees": [174.8751625618622, -36.93744014185825, 64]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -49,7 +49,7 @@
         "image": "img/N1f-02.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87460257874645, -36.93704374207838, 54]
+        "cartographicDegrees": [174.87460257874645, -36.93704374207838, 64]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -61,7 +61,7 @@
         "image": "img/N2f-01.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.8750828082736, -36.937203711653495, 58]
+        "cartographicDegrees": [174.8750828082736, -36.937203711653495, 68]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -73,7 +73,7 @@
         "image": "img/N2f-02.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.8752088742252, -36.9371077459848, 54]
+        "cartographicDegrees": [174.8752088742252, -36.9371077459848, 64]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -85,7 +85,7 @@
         "image": "img/N1f-03.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87495431526546, -36.936880257186004, 54]
+        "cartographicDegrees": [174.87495431526546, -36.936880257186004, 64]
     },
     "heightReference": "CLAMP_TO_GROUND"
   },
@@ -97,7 +97,7 @@
         "image": "img/N1f-04.png",      
         "scale": 0.5 },    
     "position": {
-        "cartographicDegrees": [174.87427767840657, -36.93708994905157, 54]
+        "cartographicDegrees": [174.87427767840657, -36.93708994905157, 64]
     },
     "heightReference": "CLAMP_TO_GROUND"
   }
