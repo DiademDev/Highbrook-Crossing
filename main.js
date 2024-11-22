@@ -125,10 +125,12 @@ async function main() {
     }
   });
 
+  const addedTilesets = [];
+
   async function createModel(id) {
 
     // Remove existing model tilesets
-    
+
     addedTilesets.forEach((tileset) => {
       viewer.scene.primitives.remove(tileset);
     });
