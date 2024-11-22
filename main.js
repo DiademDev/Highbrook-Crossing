@@ -4,54 +4,54 @@ Cesium.GoogleMaps.defaultApiKey = "AIzaSyA1au3L6n6ZZvFqojyNMfB27DiGHLAX7h8";
 
 async function main() {
 
-  const viewer = new Cesium.Viewer("cesiumContainer", {
-//-----------------------------------------------------  This can be turned off when using Google 3D tiles ----------------------------------------------------------//
-    //terrain: Cesium.Terrain.fromWorldTerrain(),
-//----------------------------------------------------------------------------  *** ---------------------------------------------------------------------------------//
-    timeline: false,
-    geocoder: false,
-    sceneModePicker: false,
-    navigationHelpButton: false,
-    baseLayerPicker: false,
-    animation: false,
-    searchButton: false,
-    homeButton: false,
-    infoBox: false
-  });
+    const viewer = new Cesium.Viewer("cesiumContainer", {
+  //-----------------------------------------------------  This can be turned off when using Google 3D tiles ----------------------------------------------------------//
+      //terrain: Cesium.Terrain.fromWorldTerrain(),
+  //----------------------------------------------------------------------------  *** ---------------------------------------------------------------------------------//
+      timeline: false,
+      geocoder: false,
+      sceneModePicker: false,
+      navigationHelpButton: false,
+      baseLayerPicker: false,
+      animation: false,
+      searchButton: false,
+      homeButton: false,
+      infoBox: false
+    });
 
-    // Add Photorealistic 3D Tiles
-  try {
-    const tileset = await Cesium.createGooglePhotorealistic3DTileset();
-    viewer.scene.primitives.add(tileset);
-  } catch (error) {
-    console.log(`Error loading Photorealistic 3D Tiles tileset.\n${error}`);
-  }
+      // Add Photorealistic 3D Tiles
+    try {
+      const tileset = await Cesium.createGooglePhotorealistic3DTileset();
+      viewer.scene.primitives.add(tileset);
+    } catch (error) {
+      console.log(`Error loading Photorealistic 3D Tiles tileset.\n${error}`);
+    }
 
-//-----------------------------------------------------  Make false when using Google 3D tiles ----------------------------------------------------------//
-  viewer.scene.globe.show = false;   
-//----------------------------------------------------------------------------  *** ---------------------------------------------------------------------------------//
+  //-----------------------------------------------------  Make false when using Google 3D tiles ----------------------------------------------------------//
+    viewer.scene.globe.show = false;   
+  //----------------------------------------------------------------------------  *** ---------------------------------------------------------------------------------//
 
-// Remove Cesium logo
-viewer._cesiumWidget._creditContainer.style.display = "none";
+  // Remove Cesium logo
+  viewer._cesiumWidget._creditContainer.style.display = "none";
 
-// Import data source file
-const dataSourcePromise = Cesium.CzmlDataSource.load("data.czml");
-viewer.dataSources.add(dataSourcePromise);
+  // Import data source file
+  const dataSourcePromise = Cesium.CzmlDataSource.load("data.czml");
+  viewer.dataSources.add(dataSourcePromise);
 
-// Create a custom InfoBox in javascript
-const container = document.getElementById("cesiumContainer");
-const infoBox = document.createElement("div");
-const topDiv = document.createElement("div");
-const botDiv = document.createElement("div");
-const rightDiv = document.createElement("div");
-topDiv.classList.add("top-div");
-botDiv.classList.add("bot-div");
-rightDiv.classList.add("rightSide-div")
-infoBox.classList.add("custom-infobox");
-infoBox.appendChild(topDiv);
-infoBox.appendChild(botDiv);
-infoBox.appendChild(rightDiv);
-container.appendChild(infoBox);
+  // Create a custom InfoBox in javascript
+  const container = document.getElementById("cesiumContainer");
+  const infoBox = document.createElement("div");
+  const topDiv = document.createElement("div");
+  const botDiv = document.createElement("div");
+  const rightDiv = document.createElement("div");
+  topDiv.classList.add("top-div");
+  botDiv.classList.add("bot-div");
+  rightDiv.classList.add("rightSide-div")
+  infoBox.classList.add("custom-infobox");
+  infoBox.appendChild(topDiv);
+  infoBox.appendChild(botDiv);
+  infoBox.appendChild(rightDiv);
+  container.appendChild(infoBox);
 
   var introWindow = document.getElementById("introWindow");
   introWindow.style.display = "block";
@@ -64,53 +64,53 @@ container.appendChild(infoBox);
     introWindow.parentNode.removeChild(introWindow);
   }, 9000);
 
-// Custom infoBox logic
-viewer.selectedEntityChanged.addEventListener((selectedEntity) => {
+  // Custom infoBox logic
+  viewer.selectedEntityChanged.addEventListener((selectedEntity) => {
 
-  if (selectedEntity === undefined || selectedEntity.name === "TamakiModel") {
-    // No entity is currently selected or TamakiModel entity is selected
-    if (infoBox.classList.contains("open")) {
-      infoBox.classList.remove("open");
-      infoBox.classList.add("close");
-    }
-  } else if (selectedEntity instanceof Cesium.Entity) {
-    // An entity has been selected
-    if (infoBox.classList.contains("close")) {
-      infoBox.classList.remove("close");
-      infoBox.classList.add("open");
-    } else if (infoBox.classList.contains("open")) {
-      // Close the infoBox first before reopening it with updated information
-      infoBox.classList.remove("open");
-      infoBox.classList.add("close");
-      setTimeout(() => {
+    if (selectedEntity === undefined || selectedEntity.name === "TamakiModel") {
+      // No entity is currently selected or TamakiModel entity is selected
+      if (infoBox.classList.contains("open")) {
+        infoBox.classList.remove("open");
+        infoBox.classList.add("close");
+      }
+    } else if (selectedEntity instanceof Cesium.Entity) {
+      // An entity has been selected
+      if (infoBox.classList.contains("close")) {
         infoBox.classList.remove("close");
         infoBox.classList.add("open");
+      } else if (infoBox.classList.contains("open")) {
+        // Close the infoBox first before reopening it with updated information
+        infoBox.classList.remove("open");
+        infoBox.classList.add("close");
+        setTimeout(() => {
+          infoBox.classList.remove("close");
+          infoBox.classList.add("open");
 
-        // Split Description into parts
+          // Split Description into parts
+          var description = selectedEntity.description.getValue();
+          var parts = description.split("<hr>");
+          topDiv.innerHTML = parts[0];
+          botDiv.innerHTML = parts[1];
+          rightDiv.innerHTML = parts[2];
+        }, 300);
+        return;
+      } else {
+        infoBox.classList.add("open");
+      }
         var description = selectedEntity.description.getValue();
         var parts = description.split("<hr>");
         topDiv.innerHTML = parts[0];
         botDiv.innerHTML = parts[1];
         rightDiv.innerHTML = parts[2];
-      }, 300);
-      return;
-    } else {
-      infoBox.classList.add("open");
     }
-      var description = selectedEntity.description.getValue();
-      var parts = description.split("<hr>");
-      topDiv.innerHTML = parts[0];
-      botDiv.innerHTML = parts[1];
-      rightDiv.innerHTML = parts[2];
-  }
-});
+  });
 
-infoBox.addEventListener('click', (event) => {
+  infoBox.addEventListener('click', (event) => {
 
-  if (event.target === infoBox) {
-      console.log("YES")
-  }
-});
+    if (event.target === infoBox) {
+        console.log("YES")
+    }
+  });
 
   viewer.scene.camera.flyTo({
     destination: Cesium.Cartesian3.fromDegrees(
@@ -124,6 +124,30 @@ infoBox.addEventListener('click', (event) => {
       roll: 0.000006232633681158006
     }
   });
+
+  async function createModel(id) {
+
+    // Remove existing model tilesets
+    
+    addedTilesets.forEach((tileset) => {
+      viewer.scene.primitives.remove(tileset);
+    });
+    addedTilesets.length = 0;
+
+    try {
+      const tileset = new Cesium.Cesium3DTileset({
+        url: Cesium.IonResource.fromAssetId(id),
+      });
+
+      viewer.scene.primitives.add(tileset);
+      addedTilesets.push(tileset);
+
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  createModel(2855330);
 
   // Console log out cameras coordinates as well as HeadingPitchRoll in radians
   // viewer.scene.postUpdate.addEventListener(function() {
