@@ -149,7 +149,7 @@ async function main() {
     }
   }
 
-  createModels([2855330, 2855511, 2855513]);
+  createModels([2864168, 2864170, 2855513]);
 
   // Console log out cameras coordinates as well as HeadingPitchRoll in radians
   // viewer.scene.postUpdate.addEventListener(function() {
