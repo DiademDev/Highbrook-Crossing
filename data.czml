@@ -17,11 +17,11 @@
     "heightReference": "CLAMP_TO_GROUND"
   },
       {    
-    "id": "ID1f-02",    
+    "id": "ID2f-01",    
     "name": "Freestanding Identification Sign",    
-    "description": "<img src='photos/ID1f.jpg' alt='Site Pylon' width= '600' height='450'><hr><strong><u>ID1f-02</u></strong> - TBC(w) x TBC(h)mm<br><br>Large Site Pylon<br>Illuminated<br>Double-sided<br>Located cnr of Business Pde. & Sir Wolf Fisher Dr.<br><br><a href='ID1f_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
+    "description": "<img src='photos/ID1f.jpg' alt='Site Pylon' width= '600' height='450'><hr><strong><u>ID2f-01</u></strong> - TBC(w) x TBC(h)mm<br><br>Large Site Pylon<br>Illuminated<br>Double-sided<br>Located cnr of Business Pde. & Sir Wolf Fisher Dr.<br><br><a href='ID1f_01.html' target='_blank'></a><hr><strong>MESSAGE</strong><br><br><u>Side A</u><br>TBC<br><u>Side B</u><br>TBC</p>",    
     "billboard": {      
-        "image": "img/ID1f-02.png", 
+        "image": "img/ID2f-01.png", 
         "scale": 0.5,
         "clampToGround": "true" },    
     "position": {
